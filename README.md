@@ -16,3 +16,6 @@ Each participant has their own branch and folder to solve questions and share th
 1. **Question 1**: [Jump Game](./Questions/JumpGame.md)
 2. **Question 2**: [Remove Duplicates from Sorted Array](./Questions/RemoveDuplicatesFromSortedArray.md)
 3. **Question 3**: [Two Sum](./Questions/TwoSum.md)
+4. **Question 4**: [Two Sum II - Input Array is Sorted](./Questions/TwoSumII_InputArrayIsSorted.md)
+5. **Question 5**: [Sequence Compressor](./Questions/SequenceCompressor.md)
+6. **Question 6**: [Fibonacci Number](./Questions/FibonacciNumber.md)
